@@ -55,3 +55,9 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>         
  </div>
+
+ ---
+
+ ### :fire: My Stats :
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlinaOnly&theme=dark&background=000000)](https://git.io/streak-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlinaOnly&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
