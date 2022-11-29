@@ -3,10 +3,11 @@
      <p align="center"><img  src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="300"/></p>
     </h1>
 
-<h2 align="center"> My name is Alina</h2>
-    <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="30"/>  
-    <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=15F70A&width=450&lines=I%60m+a+Junior+Frontend+Developer!" alt="Typing SVG" /></a>
-
+<h2 align="center"> My name is Alina
+    <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="30"/> 
+ 
+   <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=15F70A&width=450&lines=I%60m+a+Junior+Frontend+Developer!" alt="Typing SVG" /></a>
+</h2>
 </div>
 
 <div id="badges" align="center">
