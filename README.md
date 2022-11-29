@@ -7,7 +7,7 @@
     <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="30"/> 
 </h2>
 
-<p> 
+<p align="center"> 
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&color=2AF73C&width=450&lines=I%60m+a+Junior+Frontend+Developer" alt="Typing SVG" />
     </a>
