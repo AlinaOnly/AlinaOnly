@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1> Hello World!
-     <img align="center" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="300"/>
+     <p align="center"><img  src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="300"/></p>
     </h1>
 
 <h2> My name is Alina
@@ -28,4 +28,4 @@
     <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=blue" alt="Telegram Badge"/>
   </a>
 </div>
- <img align="center" src="https://komarev.com/ghpvc/?username=AlinaOnly&style=flat-square&color=blue" alt=""/>
+ <p align="center"><img src="https://komarev.com/ghpvc/?username=AlinaOnly&style=flat-square&color=blue" alt=""/></p>
