@@ -1,20 +1,19 @@
 <div id="header" align="center">
-    <h1 align="center"> Hello World!
-        <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="100"/> 
-    </h1>
+    <h1> Hello World!</h1>
+    <p> <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="100"/> </p>
 
-    <h1> My name is Alina
-        <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="30"/> 
-    </h1>
+<h1> My name is Alina
+    <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="30"/> 
+</h1>
 
-    <p align="center"> 
-        <a href="https://git.io/typing-svg">
-            <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&color=2AF73C&width=450&lines=I%60m+a+Junior+Frontend+Developer" alt="Typing SVG" />
-        </a>
-    </p>
+<p> 
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&color=2AF73C&width=450&lines=I%60m+a+Junior+Frontend+Developer" alt="Typing SVG" />
+    </a>
+</p>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="my-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
