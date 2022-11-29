@@ -18,10 +18,10 @@
   <a href="https://www.facebook.com/people/Alina-Krivonos/100001174956859/">
     <img src="https://img.shields.io/badge/Facebook-white?style=for-the-badge&logo=facebook&logoColor=blue" alt="FB Badge"/>
   </a>
-    <a href="kiratrenikova@yandex.ru">
+    <a href="mailto:kiratrenikova@yandex.ru">
     <img src="https://img.shields.io/badge/Email-orange?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email Badge"/>
   </a>
-  <a href="@IDidNaaaht">
+  <a href="https://t.me/IDidNaaaht">
     <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=blue" alt="Telegram Badge"/>
   </a>
 </div>
