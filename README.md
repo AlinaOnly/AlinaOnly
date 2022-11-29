@@ -12,16 +12,16 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="my-linkedin-URL">
+  <a href="https://www.linkedin.com/in/alina-krivonos-b183aa258/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="my-fb-URL">
+  <a href="https://www.facebook.com/people/Alina-Krivonos/100001174956859/">
     <img src="https://img.shields.io/badge/Facebook-white?style=for-the-badge&logo=facebook&logoColor=blue" alt="FB Badge"/>
   </a>
-    <a href="my-email-URL">
+    <a href="kiratrenikova@yandex.ru">
     <img src="https://img.shields.io/badge/Email-orange?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email Badge"/>
   </a>
-  <a href="my-telegram-URL">
+  <a href="@IDidNaaaht">
     <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=blue" alt="Telegram Badge"/>
   </a>
 </div>
