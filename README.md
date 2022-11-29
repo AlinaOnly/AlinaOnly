@@ -1,10 +1,11 @@
 <div id="header" align="center">
-    <h1> Hello World!</h1>
-    <p> <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="100"/> </p>
+    <h1> Hello World!
+     <img align="center" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="300"/>
+    </h1>
 
-<h1> My name is Alina
+<h2> My name is Alina
     <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="30"/> 
-</h1>
+</h2>
 
 <p> 
     <a href="https://git.io/typing-svg">
@@ -26,5 +27,5 @@
   <a href="my-telegram-URL">
     <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=blue" alt="Telegram Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=AlinaOnly&style=flat-square&color=blue" alt=""/>
 </div>
+ <img align="center" src="https://komarev.com/ghpvc/?username=AlinaOnly&style=flat-square&color=blue" alt=""/>
